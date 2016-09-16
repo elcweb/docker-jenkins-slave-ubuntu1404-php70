@@ -1,1 +1,1 @@
-# docker-jenkins-slave-ubuntu1404-php55
+# docker-jenkins-slave-ubuntu1404-php70
